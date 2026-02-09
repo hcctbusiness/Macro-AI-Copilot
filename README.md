@@ -1,5 +1,7 @@
 # Macro-AI-Copilot
 
+![Uploading Post 16 - Photo1.png…]()
+
 End-to-end macro, machine learning, and multi-asset allocation system in Python.
 
 ## Overview
