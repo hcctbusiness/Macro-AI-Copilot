@@ -1,4 +1,4 @@
-# Macro-AI-Copilot
+# HCCT Group - Macro-AI-Copilot Tools
 
 End-to-end macro, machine learning, and multi-asset allocation system in Python.
 
